@@ -177,46 +177,14 @@ body {
 /* <<-------------END OF HEADER----------------->> */
 
 
-/* for nogin */
+/* <<---------------START OF BODY---------------->> */
 
-.btn-login {
-    font-size: 0.9rem;
-    letter-spacing: 0.05rem;
-    padding: 0.75rem 1rem;
-}
-
-.google {
-    color: white !important;
-    background-color: #ea4335;
-}
-
-.facebook {
-    color: white !important;
-    background-color: #3b5998;
+.pricing-header {
+    max-width: 700px;
 }
 
 
-/* for login */
-
-.card-body form .pass-link,
-.card-body form .signup-link {
-    margin-bottom: 5px;
-}
-
-.card-body form .pass-link a,
-.card-body form .signup-link a {
-    color: #425efa;
-    text-decoration: none;
-}
-
-.card-body form .pass-link a:hover {
-    text-decoration: underline;
-}
-
-.card-body form .signup-link {
-    text-align: center;
-    margin-top: 30px;
-}
+/* <<-------------END OF BODY----------------->> */
 
 
 /* <<---------------START OF FOOTER---------------->> */

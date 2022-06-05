@@ -185,17 +185,20 @@ body {
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    justify-content: center;
+    align-items: center;
 }
 
 .section {
     width: 100%;
     min-height: 100vh;
     background-color: #ffffff;
+    display: flex;
+    justify-content: center;
 }
 
 .container {
     width: 80%;
-    display: block;
     margin: auto;
     padding-top: 100px;
 }
