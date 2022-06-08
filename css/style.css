@@ -433,9 +433,7 @@ body {
     box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19);
 }
 
-.left {
-    background: url("/images/contact 2.png") no-repeat center;
-    background-size: contain;
+.left img {
     height: 100%;
     width: 100%;
 }
